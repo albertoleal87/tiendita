@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {padding:0 ; margin:0 ; }
+
+#login { background-color: #fff; margin-top: 100px; margin-left:auto; margin-right:auto; width:300px; padding: 10px ;-moz-border-radius:10px ; -webkit-border-radius:10px; border:2px solid #000; }
+
+body {background-color: #000; margin-left:auto; margin-right:auto; width:800px ;font-family: garamond}
+
+
+table tr td {padding: 2px     }
+
+#encabezado, #menu, #cuerpo {border:2px solid #000; -moz-border-radius:5px ; -webkit-border-radius:5px; padding: 3px}
+
+#llave {margin-left: 70px;  }
+
+input {padding: 3px; font-size: 17px}
